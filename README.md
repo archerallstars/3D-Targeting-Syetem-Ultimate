@@ -1,4 +1,9 @@
 # 3D-Targeting-Syetem-Ultimate
+
+Screenshots
+===========
+![Screenshot 1](screenshots/preview.gif)
+
 The 3D targeting system for Godot game engine.
 
 This tool is based on and included all the features from the "3D Targeting System 1.0.0" by JohnnyRouddro. It has been ported from GDScript to Visual Script. Some features have been added to the original system as follows:
@@ -42,8 +47,10 @@ This tool is based on and included all the features from the "3D Targeting Syste
   - **Mouse Mode**: as the name suggested.
   - **Toggle Mouse Input**: you can turn this off or you don't need to attach this script.
 
-Please note that due to godotengine/godot issue #44152, it's currently impossible to categorize or group the script options. Therefore, the script options will appear randomly in order.
+Please note that due to [godotengine/godot issue #44152](https://github.com/godotengine/godot/issues/44152), it's currently impossible to categorize or group the script options. Therefore, the script options will appear randomly in order.
 
 3. Don't forget to add required node as the name suggested in the inspector tab.
+
+4. Don't forget to add the **custom_nodes_scripts** folder into your project folder.
 
 All feedbacks are welcome.
