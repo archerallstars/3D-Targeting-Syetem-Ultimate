@@ -6,7 +6,7 @@ Screenshots
 
 The 3D targeting system for Godot game engine.
 
-This tool is based on and included all the features from the "3D Targeting System 1.0.0" by JohnnyRouddro. It has been ported from GDScript to Visual Script. Some features have been added to the original system as follows:
+This tool is based on and included all the features from the ["3D Targeting System 1.0.0" by JohnnyRouddro](https://github.com/JohnnyRouddro/Godot_3D_Targeting_System). It has been ported from GDScript to Visual Script. Some features have been added to the original system as follows:
 
 1. Added 2 area detection modes including **Area Random** and **Area Closest** to pick a target as the name suggested.
 2. Added the ability to pick a target manually (you can use your logic for targeting, the demo included) in **Manual** pick mode.
